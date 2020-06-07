@@ -1,0 +1,18 @@
+{
+    "name": "webscrapper1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "webscrap.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "async": "2.4.1",
+        "cheerio": "0.22.0",
+        "csv-write-stream": "2.0.0",
+        "request": "2.81.0"
+    }
+}
