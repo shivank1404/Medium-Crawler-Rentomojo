@@ -10,7 +10,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "async": "2.4.1",
+        "async": "2.6.4",
         "cheerio": "0.22.0",
         "csv-write-stream": "2.0.0",
         "request": "2.81.0"
